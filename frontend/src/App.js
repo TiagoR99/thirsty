@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import {Formulario} from './UserData.js'
 
 function App() {
   return (
     <div className="App">
-     <p>Zguiri</p>
+     <Formulario></Formulario>
     </div>
   );
 }
